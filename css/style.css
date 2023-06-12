@@ -52,6 +52,10 @@
 .table-line{
     background-color: aqua;
 }
+.ending{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
 
 .foot{
     background-image: url('../img/monitor.jpg');
@@ -67,4 +71,5 @@
 }
 h3{
     color: lightgray;
+    margin-bottom: 15px;
 }
