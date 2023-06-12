@@ -5,13 +5,8 @@
     background-image: url('../img/pattern.png');
     background-repeat: repeat;
 
+}
 
-}
-body{
-    box-sizing: border-box;
-    text-align: left;
-    
-}
 
 .logo{
     font-size:  18px;
@@ -38,4 +33,34 @@ body{
 }
 .background-lorem{
     background-color: yellow;
+}
+table{
+    width: 70%;
+    height: 50%;
+    padding: 50px;
+    box-sizing: border-box;
+}
+.table-row{
+    background-color:rgb(0, 110, 255);
+    color: white;
+
+}
+.table-line{
+    background-color: aqua;
+}
+
+.foot{
+    background-image: url('../img/monitor.jpg');
+    width: 250px;
+    height: 200px;
+    color: white;
+}
+.feet{
+    background-image: url('../img/graph.jpg');
+    width: 250px;
+    height: 200px;
+    color: white;
+}
+h3{
+    color: lightgray;
 }
