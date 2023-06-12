@@ -1,6 +1,41 @@
 .container{
-    width: 300px;
-    height: 200px;
+    width: 1000px;
+    height: 100px;
     background-color: #0095ff;
     background-image: url('../img/pattern.png');
+    background-repeat: repeat;
+
+
+}
+body{
+    box-sizing: border-box;
+    text-align: left;
+    
+}
+
+.logo{
+    font-size:  18px;
+    color: aliceblue;
+    margin-bottom: 50%;
+}
+#strong{
+    font-size: 40px;
+    font-style: bold;
+}
+.article{
+    font-size: 30px;
+
+}
+.link{
+    color: rgb(0, 162, 255);
+}
+.secondary{
+    margin-top: 0;
+
+}
+.first{
+    margin-bottom: 0%;
+}
+.background-lorem{
+    background-color: yellow;
 }
