@@ -1,6 +1,6 @@
 .container{
-    width: 1000px;
-    height: 100px;
+    width: 1090px;
+    height: 130px;
     background-color: #0095ff;
     background-image: url('../img/pattern.png');
     background-repeat: repeat;
@@ -9,9 +9,10 @@
 
 
 .logo{
-    font-size:  18px;
+    width: 250px;
+    font-size: 150spx;
     color: aliceblue;
-    margin-bottom: 50%;
+    margin-top: 75px;
 }
 #strong{
     font-size: 40px;
