@@ -37,12 +37,14 @@
 .background-lorem{
     background-color: yellow;
 }
-.table{
-    width: 70%;
-    height: 50%;
+table{
+    text-align: left;
+    border-collapse: collapse;
+    width: 1000px;
 
-    
-    
+}
+.wid{
+    width: 50%;
 }
 .table-row{
     background-color:rgb(0, 110, 255);
